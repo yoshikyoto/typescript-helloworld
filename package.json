@@ -1,0 +1,13 @@
+{
+  "name": "nvapi-client-test",
+  "description": "nvapi-clientの動作確認",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.o-in.dwango.co.jp:yoshiyuki-sakamoto/nvapi-client-test.git"
+  },
+  "author": "",
+}
