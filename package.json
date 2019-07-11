@@ -1,6 +1,6 @@
 {
-  "name": "nvapi-client-test",
-  "description": "nvapi-clientの動作確認",
+  "name": "test",
+  "description": "動作確認",
   "main": "index.js",
   "scripts": {
     "compile": "tsc ./index.ts"
